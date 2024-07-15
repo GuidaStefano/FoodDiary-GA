@@ -35,7 +35,8 @@ Il progetto si compone di quattro packages principali:
 Per eseguire un'ottimizzazione, basta configurare i parametri dell'algoritmo nel file FoodDiaryGARunner.java e avviare l'esecuzione. L'algoritmo genetico inizierà l'ottimizzazione e fornirà i risultati nella console.
 
 # Documentazione
-La documentazione completa del progetto è presente al seguente link:
+La documentazione completa del progetto è disponibile al seguente link:
+[Documentazione FoodDiary-GA](https://github.com/GuidaStefano/FoodDiary-GA/blob/master/FoodDiary-GA%20-%20Documentazione.pdf)
 
 
 
